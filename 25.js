@@ -1,0 +1,5 @@
+
+frmIntroduction.innerHTML=[  NSB.HeaderBar_jqm14('hdrIntro', 'Introduction', 'Back', 'arrow-l', 'left', '', 'arrow-r', 'none', ' style="" class=" "', '', ''),
+  NSB.List_jqm14('lstIntro', 'ul', 'none', '', 'b', 'Sections:,Bird Ethics, How to watch birds, Interesting Facts About Birds', '', 'Y,N,N,N', '', 'class=" "', '100%', true, false, 'false', 'arrow-r', 'false', '', 'false', 'false'),
+  "<div id='HTMLviewIntro_scroller' class=''   style='font-size:13px; font-family:helvetica; font-style:normal; font-weight:normal; color:black; border-style:;' name=''><div id='HTMLviewIntro' style='overflow:auto; background-color:transparent; height:auto; min-width:98%;'><b>Dedication</b><br/>\u000A<img style=\"width: 128px; height: 128px; margin: 5px; vertical-align: bottom; float: left;\" src=\"chapters/Introduction/Dedication.jpg\">\u000ATo all the birds, over the years,<br/>\u000Athat have been generous of heart<br/>\u000Ato allow us the many opportunities<br/>\u000Ato develop relationships & friendships with them.<br/>\u000AYou will be treasured in our hearts and we hope to meet again\u000Ain a redeemed future.</div></div>",
+  ].join('');

@@ -1,0 +1,5 @@
+
+frmGettingStarted.innerHTML=[  NSB.HeaderBar_jqm14('hdrGettingStarted', 'Getting Started', 'Back', 'arrow-l', 'left', '', 'arrow-r', 'none', ' style="" class=" "', '', ''),
+  NSB.List_jqm14('lstGettingStarted', 'ul', 'none', '', 'b', 'Sections:,10 Common Garden Birds, Other Reasonably Common Garden Birds', '', 'Y,N,N,N', '', 'class=" "', '97%', true, false, 'false', 'arrow-r', 'false', '', 'false', 'false'),
+  "<div id='HTMLGetingStarted_scroller' class=''   style='font-size:13px; font-family:helvetica; font-style:normal; font-weight:normal; color:black; border-style:;' name=''><div id='HTMLGetingStarted' style='overflow:auto; background-color:transparent; height:auto; min-width:98%;'><b>How to Use this App</b><br/>\u000D\u000AThis application is still a work in progress and we value feedback (see feedback).<br/>\u000D\u000AFor a beginner, I suggest you look up the \'10 Common Garden Birds\' and \'Other Reasonably Common Garden Birds\' to start you off.<br/>\u000D\u000AFor a regular bird watcher it hopefully will serve as a quick photo identification and a database of local birds.<br/></div></div>",
+  ].join('');

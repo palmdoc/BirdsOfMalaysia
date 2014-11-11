@@ -1,0 +1,1 @@
+window.addEventListener('load', function() {new FastClick.attach(document.body)}, false)
